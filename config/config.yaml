@@ -1,0 +1,22 @@
+# BayesRisk Configuration
+# Created: 2026-01-11
+
+project:
+  name: bayesrisk
+  author: Desmond Momanyi Mariita
+  version: 0.1.0
+
+data:
+  raw_path: data/raw
+  processed_path: data/processed
+  target_column: loan_status
+
+training:
+  test_size: 0.2
+  random_state: 42
+  
+# Phase 1 settings (no sklearn allowed!)
+phase1:
+  use_sklearn: false
+  use_tensorflow: false
+  use_pytorch: false

@@ -93,6 +93,7 @@ dmypy.json
 
 # Data files (large files should not be in git)
 data/raw/*
+data/external/*
 data/interim/*
 data/processed/*
 !data/raw/.gitkeep

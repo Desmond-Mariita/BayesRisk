@@ -36,9 +36,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Desmond-Mariita/bayesrisk"
-Documentation = "https://github.com/Desmond-Mariita/bayesrisk#readme"
-Repository = "https://github.com/Desmond-Mariita/bayesrisk.git"
+Homepage = "https://github.com/Desmond-Mariita/BayesRisk"
+Documentation = "https://github.com/Desmond-Mariita/BayesRisk#readme"
+Repository = "https://github.com/Desmond-Mariita/BayesRisk.git"
 
 [tool.black]
 line-length = 100

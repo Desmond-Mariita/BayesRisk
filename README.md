@@ -79,8 +79,8 @@ See [research_log.md](research_log.md) for weekly progress updates.
 
 **Desmond Momanyi Mariita**
 - Email: dmariita@keragita.com
-- LinkedIn: [Your LinkedIn]
-- GitHub: [@your-github-username](https://github.com/your-github-username)
+- LinkedIn: 
+- GitHub: https://github.com/Desmond-Mariita
 
 ## 📄 License
 

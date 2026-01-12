@@ -31,6 +31,12 @@ python-dotenv>=1.0.0
 tqdm>=4.65.0
 pyyaml>=6.0
 
+# Statistics
+statsmodels>=0.14.0
+
+# Modelling
+scikit-learn>=1.6.0
+
 # Note: scikit-learn, tensorflow, pytorch are INTENTIONALLY EXCLUDED
 # for Phase 1-2. All algorithms must be implemented from scratch.
 
